@@ -1,5 +1,4 @@
-import random
-print(random.randiant(1, 5000))
+
 heroi = 'Chaveiro'
 xp = 4001
 
